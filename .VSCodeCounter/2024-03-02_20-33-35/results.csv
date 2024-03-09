@@ -1,0 +1,29 @@
+"filename", "language", "JavaScript", "JSON", "Markdown", "Vue", "HTML", "JSON with Comments", "SCSS", "comment", "blank", "total"
+"c:\game\Summon War\LoginLauncher\launcher\README.md", "Markdown", 0, 0, 19, 0, 0, 0, 0, 0, 6, 25
+"c:\game\Summon War\LoginLauncher\launcher\babel.config.js", "JavaScript", 15, 0, 0, 0, 0, 0, 0, 0, 1, 16
+"c:\game\Summon War\LoginLauncher\launcher\jsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 19, 0, 0, 1, 20
+"c:\game\Summon War\LoginLauncher\launcher\package-lock.json", "JSON", 0, 37036, 0, 0, 0, 0, 0, 0, 1, 37037
+"c:\game\Summon War\LoginLauncher\launcher\package.json", "JSON", 0, 59, 0, 0, 0, 0, 0, 0, 1, 60
+"c:\game\Summon War\LoginLauncher\launcher\public\index.html", "HTML", 0, 0, 0, 0, 18, 0, 0, 1, 4, 23
+"c:\game\Summon War\LoginLauncher\launcher\src\App.vue", "Vue", 0, 0, 0, 20, 0, 0, 0, 0, 4, 24
+"c:\game\Summon War\LoginLauncher\launcher\src\background.js", "JavaScript", 56, 0, 0, 0, 0, 0, 0, 17, 10, 83
+"c:\game\Summon War\LoginLauncher\launcher\src\main.js", "JavaScript", 15, 0, 0, 0, 0, 0, 0, 0, 4, 19
+"c:\game\Summon War\LoginLauncher\launcher\src\pages\home\index.vue", "Vue", 0, 0, 0, 20, 0, 0, 0, 0, 4, 24
+"c:\game\Summon War\LoginLauncher\launcher\src\pages\noLoginHome\index.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\game\Summon War\LoginLauncher\launcher\src\pages\noLoginHome\index.vue", "Vue", 0, 0, 0, 91, 0, 0, 0, 4, 4, 99
+"c:\game\Summon War\LoginLauncher\launcher\src\pages\phone\index.vue", "Vue", 0, 0, 0, 59, 0, 0, 0, 0, 2, 61
+"c:\game\Summon War\LoginLauncher\launcher\src\pages\register\index.scss", "SCSS", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\game\Summon War\LoginLauncher\launcher\src\pages\register\index.vue", "Vue", 0, 0, 0, 83, 0, 0, 0, 5, 2, 90
+"c:\game\Summon War\LoginLauncher\launcher\src\pages\resetPasswordPage\index.vue", "Vue", 0, 0, 0, 64, 0, 0, 0, 0, 2, 66
+"c:\game\Summon War\LoginLauncher\launcher\src\pages\resetUserNamePage\index.vue", "Vue", 0, 0, 0, 27, 0, 0, 0, 0, 3, 30
+"c:\game\Summon War\LoginLauncher\launcher\src\plugins\axios\index.js", "JavaScript", 18, 0, 0, 0, 0, 0, 0, 6, 1, 25
+"c:\game\Summon War\LoginLauncher\launcher\src\plugins\captcha\captcha.js", "JavaScript", 6, 0, 0, 0, 0, 0, 0, 0, 4, 10
+"c:\game\Summon War\LoginLauncher\launcher\src\plugins\element.js", "JavaScript", 15, 0, 0, 0, 0, 0, 0, 6, 3, 24
+"c:\game\Summon War\LoginLauncher\launcher\src\plugins\error\error.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 1, 1
+"c:\game\Summon War\LoginLauncher\launcher\src\router\contain.js", "JavaScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 1
+"c:\game\Summon War\LoginLauncher\launcher\src\router\index.js", "JavaScript", 50, 0, 0, 0, 0, 0, 0, 1, 5, 56
+"c:\game\Summon War\LoginLauncher\launcher\src\service\api\user\index.js", "JavaScript", 50, 0, 0, 0, 0, 0, 0, 7, 8, 65
+"c:\game\Summon War\LoginLauncher\launcher\src\store.js", "JavaScript", 9, 0, 0, 0, 0, 0, 0, 0, 3, 12
+"c:\game\Summon War\LoginLauncher\launcher\src\store\user.js", "JavaScript", 48, 0, 0, 0, 0, 0, 0, 0, 6, 54
+"c:\game\Summon War\LoginLauncher\launcher\vue.config.js", "JavaScript", 5, 0, 0, 0, 0, 0, 0, 0, 1, 6
+"Total", "-", 288, 37095, 19, 364, 18, 19, 0, 47, 83, 37933
